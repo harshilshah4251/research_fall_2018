@@ -1,0 +1,60 @@
+Taxi at [-84.15859, 34.00393], 2018-06-18 00:03:32 and id 1 detected = True
+Taxi at [-84.15797, 34.00411], 2018-06-18 00:03:34 and id 1 detected = False
+Taxi at [-84.15709, 34.00437], 2018-06-18 00:03:36 and id 1 detected = False
+Last detected point : [-84.15797, 34.00411]
+Interpolated point :{'latitude': 34.00410710267151, 'longitude': -84.15796874029444} Detected : False 
+Interpolated point :{'latitude': 34.00436970316228, 'longitude': -84.15708987094347} Detected : False 
+Taxi at [-84.15668, 34.0045], 2018-06-18 00:03:38 and id 1 detected = False
+Last detected point : [-84.15709, 34.00437]
+Interpolated point :{'latitude': 34.00436970316228, 'longitude': -84.15708987094347} Detected : False 
+Interpolated point :{'latitude': 34.0043708, 'longitude': -84.1570862} Detected : False 
+Interpolated point :{'latitude': 34.0043708, 'longitude': -84.1570862} Detected : False 
+Interpolated point :{'latitude': 34.0045028, 'longitude': -84.1566818} Detected : False 
+Interpolated point :{'latitude': 34.0045028, 'longitude': -84.1566818} Detected : False 
+Interpolated point :{'latitude': 34.004502917826784, 'longitude': -84.15668145653738} Detected : False 
+Taxi at [-84.15617, 34.00468], 2018-06-18 00:03:40 and id 1 detected = False
+Last detected point : [-84.15668, 34.0045]
+Interpolated point :{'latitude': 34.004502917826784, 'longitude': -84.15668145653738} Detected : False 
+Interpolated point :{'latitude': 34.0046781, 'longitude': -84.1561708} Detected : False 
+Interpolated point :{'latitude': 34.00467863518103, 'longitude': -84.15616929417098} Detected : False 
+Taxi at [-84.15567, 34.00485], 2018-06-18 00:03:42 and id 1 detected = False
+Last detected point : [-84.15617, 34.00468]
+Interpolated point :{'latitude': 34.00467863518103, 'longitude': -84.15616929417098} Detected : False 
+Interpolated point :{'latitude': 34.0048547, 'longitude': -84.1556739} Detected : False 
+Interpolated point :{'latitude': 34.00485512364864, 'longitude': -84.15567275247138} Detected : False 
+Taxi at [-84.15518, 34.00504], 2018-06-18 00:03:44 and id 1 detected = True
+
+Taxi at [-84.15502, 34.0051], 2018-06-18 00:03:46 and id 1 detected = False
+Last detected point : [-84.15567, 34.00485]
+Interpolated point :{'latitude': 34.00485512364864, 'longitude': -84.15567275247138} Detected : False 
+Interpolated point :{'latitude': 34.0050363, 'longitude': -84.155182} Detected : True 
+Taxi at [-84.1547, 34.00522], 2018-06-18 00:03:48 and id 1 detected = False
+Taxi at [-84.15426, 34.00541], 2018-06-18 00:03:50 and id 1 detected = False
+Last detected point : [-84.1547, 34.00522]
+Interpolated point :{'latitude': 34.005220513607114, 'longitude': -84.15470028872362} Detected : False 
+Interpolated point :{'latitude': 34.0052219, 'longitude': -84.1546967} Detected : False 
+Interpolated point :{'latitude': 34.00541, 'longitude': -84.15426029999999} Detected : False 
+Interpolated point :{'latitude': 34.00541, 'longitude': -84.15426029999999} Detected : False 
+Interpolated point :{'latitude': 34.005410105420744, 'longitude': -84.15426007045018} Detected : False 
+Taxi at [-84.15399, 34.00553], 2018-06-18 00:03:52 and id 1 detected = False
+Last detected point : [-84.15426, 34.00541]
+Interpolated point :{'latitude': 34.005410105420744, 'longitude': -84.15426007045018} Detected : False 
+Interpolated point :{'latitude': 34.00553316381347, 'longitude': -84.15399211429143} Detected : False 
+Taxi at [-84.15394, 34.00556], 2018-06-18 00:03:54 and id 1 detected = False
+Last detected point : [-84.15399, 34.00553]
+Interpolated point :{'latitude': 34.00553316381347, 'longitude': -84.15399211429143} Detected : False 
+Interpolated point :{'latitude': 34.00553339999999, 'longitude': -84.1539916} Detected : False 
+Interpolated point :{'latitude': 34.00555908947227, 'longitude': -84.15393934858402} Detected : False 
+Taxi at [-84.15371, 34.00566], 2018-06-18 00:03:56 and id 1 detected = False
+Last detected point : [-84.15394, 34.00556]
+Interpolated point :{'latitude': 34.00555908947227, 'longitude': -84.15393934858402} Detected : False 
+Interpolated point :{'latitude': 34.0055599, 'longitude': -84.1539377} Detected : False 
+Interpolated point :{'latitude': 34.0055599, 'longitude': -84.1539377} Detected : False 
+Interpolated point :{'latitude': 34.005661429428855, 'longitude': -84.1537109312781} Detected : False 
+Taxi at [-84.15307, 34.00595], 2018-06-18 00:03:58 and id 1 detected = True
+Number of requests : 9
+Camera id : Number of detected vehicles
+camera 6 : 2
+********************************************************************************
+Taxi id    : Number of detections
+taxi 1 : 4

@@ -1,0 +1,8 @@
+,
+  {
+    "taxi_id": 1,
+    "longitude": -84.16855,
+    "latitude": 33.99302,
+    "timestamp": "2018-06-18 00:00:50",
+    "speed": 45
+  }

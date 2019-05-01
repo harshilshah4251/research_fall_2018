@@ -1,0 +1,1374 @@
+[
+  {
+    "taxi_id": 1,
+    "longitude": -84.16618,
+    "latitude": 33.99168,
+    "timestamp": "2018-06-18 00:00:00",
+    "speed": 0
+  },
+  {
+    "taxi_id": 2,
+    "longitude": -84.16624,
+    "latitude": 33.99172,
+    "timestamp": "2018-06-18 00:00:02",
+    "speed": 2
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16633,
+    "latitude": 33.99179,
+    "timestamp": "2018-06-18 00:00:04",
+    "speed": 10
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16638,
+    "latitude": 33.99186,
+    "timestamp": "2018-06-18 00:00:06",
+    "speed": 15
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16641,
+    "latitude": 33.99196,
+    "timestamp": "2018-06-18 00:00:08",
+    "speed": 20
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16641,
+    "latitude": 33.99206,
+    "timestamp": "2018-06-18 00:00:10",
+    "speed": 10
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1664,
+    "latitude": 33.99217,
+    "timestamp": "2018-06-18 00:00:12",
+    "speed": 5
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1664,
+    "latitude": 33.99228,
+    "timestamp": "2018-06-18 00:00:14",
+    "speed": 0
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16653,
+    "latitude": 33.99229,
+    "timestamp": "2018-06-18 00:00:16",
+    "speed": 5
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16683,
+    "latitude": 33.99226,
+    "timestamp": "2018-06-18 00:00:18",
+    "speed": 10
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16693,
+    "latitude": 33.99226,
+    "timestamp": "2018-06-18 00:00:20",
+    "speed": 15
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16702,
+    "latitude": 33.99228,
+    "timestamp": "2018-06-18 00:00:22",
+    "speed": 20
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16719,
+    "latitude": 33.99236,
+    "timestamp": "2018-06-18 00:00:24",
+    "speed": 25
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16725,
+    "latitude": 33.99243,
+    "timestamp": "2018-06-18 00:00:26",
+    "speed": 30
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16735,
+    "latitude": 33.99249,
+    "timestamp": "2018-06-18 00:00:28",
+    "speed": 35
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16744,
+    "latitude": 33.99253,
+    "timestamp": "2018-06-18 00:00:30",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16755,
+    "latitude": 33.99256,
+    "timestamp": "2018-06-18 00:00:32",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16765,
+    "latitude": 33.99256,
+    "timestamp": "2018-06-18 00:00:34",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16775,
+    "latitude": 33.99254,
+    "timestamp": "2018-06-18 00:00:36",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16787,
+    "latitude": 33.99251,
+    "timestamp": "2018-06-18 00:00:38",
+    "speed": 80
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16804,
+    "latitude": 33.99251,
+    "timestamp": "2018-06-18 00:00:40",
+    "speed": 85
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16825,
+    "latitude": 33.99249,
+    "timestamp": "2018-06-18 00:00:42",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16839,
+    "latitude": 33.99244,
+    "timestamp": "2018-06-18 00:00:44",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16874,
+    "latitude": 33.99254,
+    "timestamp": "2018-06-18 00:00:46",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16857,
+    "latitude": 33.99297,
+    "timestamp": "2018-06-18 00:00:48",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16855,
+    "latitude": 33.99302,
+    "timestamp": "2018-06-18 00:00:50",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16847,
+    "latitude": 33.99321,
+    "timestamp": "2018-06-18 00:00:52",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16827,
+    "latitude": 33.99369,
+    "timestamp": "2018-06-18 00:00:54",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16819,
+    "latitude": 33.99388,
+    "timestamp": "2018-06-18 00:00:56",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16798,
+    "latitude": 33.99436,
+    "timestamp": "2018-06-18 00:00:58",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16791,
+    "latitude": 33.99454,
+    "timestamp": "2018-06-18 00:01:00",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16783,
+    "latitude": 33.99474,
+    "timestamp": "2018-06-18 00:01:02",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16773,
+    "latitude": 33.99505,
+    "timestamp": "2018-06-18 00:01:04",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16766,
+    "latitude": 33.99526,
+    "timestamp": "2018-06-18 00:01:06",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16765,
+    "latitude": 33.9953,
+    "timestamp": "2018-06-18 00:01:08",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1676,
+    "latitude": 33.99549,
+    "timestamp": "2018-06-18 00:01:10",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16756,
+    "latitude": 33.99566,
+    "timestamp": "2018-06-18 00:01:12",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16754,
+    "latitude": 33.99574,
+    "timestamp": "2018-06-18 00:01:14",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16752,
+    "latitude": 33.99589,
+    "timestamp": "2018-06-18 00:01:16",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16747,
+    "latitude": 33.99613,
+    "timestamp": "2018-06-18 00:01:18",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16745,
+    "latitude": 33.99633,
+    "timestamp": "2018-06-18 00:01:20",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16743,
+    "latitude": 33.99654,
+    "timestamp": "2018-06-18 00:01:22",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16742,
+    "latitude": 33.99669,
+    "timestamp": "2018-06-18 00:01:24",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16741,
+    "latitude": 33.99682,
+    "timestamp": "2018-06-18 00:01:26",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1674,
+    "latitude": 33.99694,
+    "timestamp": "2018-06-18 00:01:28",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1674,
+    "latitude": 33.99727,
+    "timestamp": "2018-06-18 00:01:30",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16742,
+    "latitude": 33.99756,
+    "timestamp": "2018-06-18 00:01:32",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16746,
+    "latitude": 33.99795,
+    "timestamp": "2018-06-18 00:01:34",
+    "speed": 80
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16748,
+    "latitude": 33.99807,
+    "timestamp": "2018-06-18 00:01:36",
+    "speed": 85
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16751,
+    "latitude": 33.99833,
+    "timestamp": "2018-06-18 00:01:38",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16752,
+    "latitude": 33.99844,
+    "timestamp": "2018-06-18 00:01:40",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16755,
+    "latitude": 33.99857,
+    "timestamp": "2018-06-18 00:01:42",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16771,
+    "latitude": 33.99918,
+    "timestamp": "2018-06-18 00:01:44",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16776,
+    "latitude": 33.9993,
+    "timestamp": "2018-06-18 00:01:46",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16781,
+    "latitude": 33.99943,
+    "timestamp": "2018-06-18 00:01:48",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16778,
+    "latitude": 33.99951,
+    "timestamp": "2018-06-18 00:01:50",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16774,
+    "latitude": 33.99958,
+    "timestamp": "2018-06-18 00:01:52",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1677,
+    "latitude": 33.99962,
+    "timestamp": "2018-06-18 00:01:54",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16758,
+    "latitude": 33.99972,
+    "timestamp": "2018-06-18 00:01:56",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16725,
+    "latitude": 33.99982,
+    "timestamp": "2018-06-18 00:01:58",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16716,
+    "latitude": 33.99985,
+    "timestamp": "2018-06-18 00:02:00",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16663,
+    "latitude": 34.00002,
+    "timestamp": "2018-06-18 00:02:02",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16628,
+    "latitude": 34.00013,
+    "timestamp": "2018-06-18 00:02:04",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16594,
+    "latitude": 34.00024,
+    "timestamp": "2018-06-18 00:02:06",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16587,
+    "latitude": 34.00026,
+    "timestamp": "2018-06-18 00:02:08",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1653,
+    "latitude": 34.00042,
+    "timestamp": "2018-06-18 00:02:10",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1649,
+    "latitude": 34.00054,
+    "timestamp": "2018-06-18 00:02:12",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16465,
+    "latitude": 34.00063,
+    "timestamp": "2018-06-18 00:02:14",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16455,
+    "latitude": 34.00068,
+    "timestamp": "2018-06-18 00:02:16",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16452,
+    "latitude": 34.0007,
+    "timestamp": "2018-06-18 00:02:18",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16435,
+    "latitude": 34.00079,
+    "timestamp": "2018-06-18 00:02:20",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16413,
+    "latitude": 34.00094,
+    "timestamp": "2018-06-18 00:02:22",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16395,
+    "latitude": 34.00107,
+    "timestamp": "2018-06-18 00:02:24",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1638,
+    "latitude": 34.0012,
+    "timestamp": "2018-06-18 00:02:26",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16366,
+    "latitude": 34.00134,
+    "timestamp": "2018-06-18 00:02:28",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16353,
+    "latitude": 34.00148,
+    "timestamp": "2018-06-18 00:02:30",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16347,
+    "latitude": 34.00154,
+    "timestamp": "2018-06-18 00:02:32",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16321,
+    "latitude": 34.00182,
+    "timestamp": "2018-06-18 00:02:34",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1631,
+    "latitude": 34.00196,
+    "timestamp": "2018-06-18 00:02:36",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.163,
+    "latitude": 34.00209,
+    "timestamp": "2018-06-18 00:02:38",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16294,
+    "latitude": 34.00217,
+    "timestamp": "2018-06-18 00:02:40",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16279,
+    "latitude": 34.00232,
+    "timestamp": "2018-06-18 00:02:42",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16262,
+    "latitude": 34.00249,
+    "timestamp": "2018-06-18 00:02:44",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16245,
+    "latitude": 34.00266,
+    "timestamp": "2018-06-18 00:02:46",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16231,
+    "latitude": 34.00278,
+    "timestamp": "2018-06-18 00:02:48",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16227,
+    "latitude": 34.0028,
+    "timestamp": "2018-06-18 00:02:50",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16219,
+    "latitude": 34.00287,
+    "timestamp": "2018-06-18 00:02:52",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16204,
+    "latitude": 34.00297,
+    "timestamp": "2018-06-18 00:02:54",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16174,
+    "latitude": 34.00315,
+    "timestamp": "2018-06-18 00:02:56",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16168,
+    "latitude": 34.0032,
+    "timestamp": "2018-06-18 00:02:58",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16157,
+    "latitude": 34.00326,
+    "timestamp": "2018-06-18 00:03:00",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16152,
+    "latitude": 34.00328,
+    "timestamp": "2018-06-18 00:03:02",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16129,
+    "latitude": 34.00339,
+    "timestamp": "2018-06-18 00:03:04",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16116,
+    "latitude": 34.00345,
+    "timestamp": "2018-06-18 00:03:06",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16108,
+    "latitude": 34.00348,
+    "timestamp": "2018-06-18 00:03:08",
+    "speed": 80
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16088,
+    "latitude": 34.00354,
+    "timestamp": "2018-06-18 00:03:10",
+    "speed": 85
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16078,
+    "latitude": 34.00356,
+    "timestamp": "2018-06-18 00:03:12",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16063,
+    "latitude": 34.00359,
+    "timestamp": "2018-06-18 00:03:14",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.16009,
+    "latitude": 34.00366,
+    "timestamp": "2018-06-18 00:03:16",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15993,
+    "latitude": 34.00368,
+    "timestamp": "2018-06-18 00:03:18",
+    "speed": 80
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15981,
+    "latitude": 34.0037,
+    "timestamp": "2018-06-18 00:03:20",
+    "speed": 85
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15969,
+    "latitude": 34.00371,
+    "timestamp": "2018-06-18 00:03:22",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15932,
+    "latitude": 34.00376,
+    "timestamp": "2018-06-18 00:03:24",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15925,
+    "latitude": 34.00378,
+    "timestamp": "2018-06-18 00:03:26",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15914,
+    "latitude": 34.0038,
+    "timestamp": "2018-06-18 00:03:28",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.159,
+    "latitude": 34.00383,
+    "timestamp": "2018-06-18 00:03:30",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15859,
+    "latitude": 34.00393,
+    "timestamp": "2018-06-18 00:03:32",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15797,
+    "latitude": 34.00411,
+    "timestamp": "2018-06-18 00:03:34",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15709,
+    "latitude": 34.00437,
+    "timestamp": "2018-06-18 00:03:36",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15668,
+    "latitude": 34.0045,
+    "timestamp": "2018-06-18 00:03:38",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15502,
+    "latitude": 34.0051,
+    "timestamp": "2018-06-18 00:03:46",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1547,
+    "latitude": 34.00522,
+    "timestamp": "2018-06-18 00:03:48",
+    "speed": 80
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15426,
+    "latitude": 34.00541,
+    "timestamp": "2018-06-18 00:03:50",
+    "speed": 85
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15399,
+    "latitude": 34.00553,
+    "timestamp": "2018-06-18 00:03:52",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15394,
+    "latitude": 34.00556,
+    "timestamp": "2018-06-18 00:03:54",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15371,
+    "latitude": 34.00566,
+    "timestamp": "2018-06-18 00:03:56",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15307,
+    "latitude": 34.00595,
+    "timestamp": "2018-06-18 00:03:58",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15282,
+    "latitude": 34.00607,
+    "timestamp": "2018-06-18 00:04:00",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15263,
+    "latitude": 34.00616,
+    "timestamp": "2018-06-18 00:04:02",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15247,
+    "latitude": 34.00623,
+    "timestamp": "2018-06-18 00:04:04",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15236,
+    "latitude": 34.00628,
+    "timestamp": "2018-06-18 00:04:06",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15227,
+    "latitude": 34.00631,
+    "timestamp": "2018-06-18 00:04:08",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15215,
+    "latitude": 34.00636,
+    "timestamp": "2018-06-18 00:04:10",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15202,
+    "latitude": 34.0064,
+    "timestamp": "2018-06-18 00:04:12",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15194,
+    "latitude": 34.00643,
+    "timestamp": "2018-06-18 00:04:14",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15174,
+    "latitude": 34.00648,
+    "timestamp": "2018-06-18 00:04:16",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15169,
+    "latitude": 34.00649,
+    "timestamp": "2018-06-18 00:04:18",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15152,
+    "latitude": 34.00652,
+    "timestamp": "2018-06-18 00:04:20",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15144,
+    "latitude": 34.00653,
+    "timestamp": "2018-06-18 00:04:22",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15137,
+    "latitude": 34.00654,
+    "timestamp": "2018-06-18 00:04:24",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15127,
+    "latitude": 34.00656,
+    "timestamp": "2018-06-18 00:04:26",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15123,
+    "latitude": 34.00657,
+    "timestamp": "2018-06-18 00:04:28",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15121,
+    "latitude": 34.00654,
+    "timestamp": "2018-06-18 00:04:30",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1512,
+    "latitude": 34.00652,
+    "timestamp": "2018-06-18 00:04:32",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15118,
+    "latitude": 34.00651,
+    "timestamp": "2018-06-18 00:04:34",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15117,
+    "latitude": 34.00649,
+    "timestamp": "2018-06-18 00:04:36",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15114,
+    "latitude": 34.00648,
+    "timestamp": "2018-06-18 00:04:38",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15112,
+    "latitude": 34.00646,
+    "timestamp": "2018-06-18 00:04:40",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15111,
+    "latitude": 34.00646,
+    "timestamp": "2018-06-18 00:04:42",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15109,
+    "latitude": 34.00645,
+    "timestamp": "2018-06-18 00:04:44",
+    "speed": 80
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15105,
+    "latitude": 34.00644,
+    "timestamp": "2018-06-18 00:04:46",
+    "speed": 85
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15102,
+    "latitude": 34.00643,
+    "timestamp": "2018-06-18 00:04:48",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.151,
+    "latitude": 34.00643,
+    "timestamp": "2018-06-18 00:04:50",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15097,
+    "latitude": 34.00643,
+    "timestamp": "2018-06-18 00:04:52",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15094,
+    "latitude": 34.00643,
+    "timestamp": "2018-06-18 00:04:54",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15091,
+    "latitude": 34.00644,
+    "timestamp": "2018-06-18 00:04:56",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15088,
+    "latitude": 34.00644,
+    "timestamp": "2018-06-18 00:04:58",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15085,
+    "latitude": 34.00646,
+    "timestamp": "2018-06-18 00:05:00",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1508,
+    "latitude": 34.00651,
+    "timestamp": "2018-06-18 00:05:02",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15071,
+    "latitude": 34.00648,
+    "timestamp": "2018-06-18 00:05:04",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15061,
+    "latitude": 34.00643,
+    "timestamp": "2018-06-18 00:05:06",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15045,
+    "latitude": 34.00635,
+    "timestamp": "2018-06-18 00:05:08",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15028,
+    "latitude": 34.00627,
+    "timestamp": "2018-06-18 00:05:10",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.15004,
+    "latitude": 34.00615,
+    "timestamp": "2018-06-18 00:05:12",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14942,
+    "latitude": 34.00586,
+    "timestamp": "2018-06-18 00:05:14",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14837,
+    "latitude": 34.00537,
+    "timestamp": "2018-06-18 00:05:16",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14794,
+    "latitude": 34.00516,
+    "timestamp": "2018-06-18 00:05:18",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14757,
+    "latitude": 34.00497,
+    "timestamp": "2018-06-18 00:05:20",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1472,
+    "latitude": 34.00477,
+    "timestamp": "2018-06-18 00:05:22",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14698,
+    "latitude": 34.00465,
+    "timestamp": "2018-06-18 00:05:24",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14674,
+    "latitude": 34.00452,
+    "timestamp": "2018-06-18 00:05:26",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14642,
+    "latitude": 34.00435,
+    "timestamp": "2018-06-18 00:05:28",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14626,
+    "latitude": 34.00426,
+    "timestamp": "2018-06-18 00:05:30",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14614,
+    "latitude": 34.0042,
+    "timestamp": "2018-06-18 00:05:32",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14605,
+    "latitude": 34.00414,
+    "timestamp": "2018-06-18 00:05:34",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14588,
+    "latitude": 34.00403,
+    "timestamp": "2018-06-18 00:05:36",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14577,
+    "latitude": 34.00395,
+    "timestamp": "2018-06-18 00:05:38",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14567,
+    "latitude": 34.00388,
+    "timestamp": "2018-06-18 00:05:40",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14555,
+    "latitude": 34.0038,
+    "timestamp": "2018-06-18 00:05:42",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1453,
+    "latitude": 34.00358,
+    "timestamp": "2018-06-18 00:05:44",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14509,
+    "latitude": 34.00339,
+    "timestamp": "2018-06-18 00:05:46",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14487,
+    "latitude": 34.0032,
+    "timestamp": "2018-06-18 00:05:48",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14468,
+    "latitude": 34.00305,
+    "timestamp": "2018-06-18 00:05:50",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14454,
+    "latitude": 34.00294,
+    "timestamp": "2018-06-18 00:05:52",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14453,
+    "latitude": 34.00287,
+    "timestamp": "2018-06-18 00:05:54",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14435,
+    "latitude": 34.00271,
+    "timestamp": "2018-06-18 00:05:56",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14427,
+    "latitude": 34.00264,
+    "timestamp": "2018-06-18 00:05:58",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14419,
+    "latitude": 34.00256,
+    "timestamp": "2018-06-18 00:06:00",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14407,
+    "latitude": 34.00246,
+    "timestamp": "2018-06-18 00:06:02",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14381,
+    "latitude": 34.00224,
+    "timestamp": "2018-06-18 00:06:04",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14349,
+    "latitude": 34.00199,
+    "timestamp": "2018-06-18 00:06:06",
+    "speed": 45
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14369,
+    "latitude": 34.00184,
+    "timestamp": "2018-06-18 00:06:08",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14415,
+    "latitude": 34.00146,
+    "timestamp": "2018-06-18 00:06:10",
+    "speed": 40
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14446,
+    "latitude": 34.00118,
+    "timestamp": "2018-06-18 00:06:12",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14454,
+    "latitude": 34.00115,
+    "timestamp": "2018-06-18 00:06:14",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.1446,
+    "latitude": 34.00112,
+    "timestamp": "2018-06-18 00:06:16",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14466,
+    "latitude": 34.00109,
+    "timestamp": "2018-06-18 00:06:18",
+    "speed": 80
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14476,
+    "latitude": 34.00098,
+    "timestamp": "2018-06-18 00:06:20",
+    "speed": 85
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14485,
+    "latitude": 34.00088,
+    "timestamp": "2018-06-18 00:06:22",
+    "speed": 70
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.145,
+    "latitude": 34.00074,
+    "timestamp": "2018-06-18 00:06:24",
+    "speed": 60
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14507,
+    "latitude": 34.00065,
+    "timestamp": "2018-06-18 00:06:26",
+    "speed": 50
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14508,
+    "latitude": 34.00065,
+    "timestamp": "2018-06-18 00:06:28",
+    "speed": 30
+  },
+  {
+    "taxi_id": 2,
+    "longitude": -84.14523,
+    "latitude": 34.00048,
+    "timestamp": "2018-06-18 00:06:30",
+    "speed": 20
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14531,
+    "latitude": 34.00039,
+    "timestamp": "2018-06-18 00:06:32",
+    "speed": 10
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14576,
+    "latitude": 33.99988,
+    "timestamp": "2018-06-18 00:06:34",
+    "speed": 5
+  },
+  {
+    "taxi_id": 1,
+    "longitude": -84.14602,
+    "latitude": 34.00003,
+    "timestamp": "2018-06-18 00:06:36",
+    "speed": 0
+  }
+]
